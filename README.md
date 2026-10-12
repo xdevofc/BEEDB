@@ -1,2 +1,2 @@
 # BEEDB
-I'll build my own database in rust just because ( learning purposes ) 
+I'll build my own database in java just because ( learning purposes ) 
